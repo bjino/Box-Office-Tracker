@@ -1,15 +1,26 @@
 {
-  "name": "byron",
+  "name": "movie-tracker-cse-135",
   "version": "1.0.0",
   "description": "Testing express web server",
   "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Byron Inocencio",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "express": "^4.14.0",
-    "morgan": "^1.7.0"
-  }
+    "morgan": "^1.7.0",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjino/Box-Office-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bjino/Box-Office-Tracker/issues"
+  },
+  "homepage": "https://github.com/bjino/Box-Office-Tracker#readme"
 }
